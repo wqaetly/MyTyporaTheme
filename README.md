@@ -39,7 +39,13 @@
 
 ### 进行安装
 
+#### 主题 
+
 将此项目中的`barfi文件夹`与`barfi.css`文件放入Typora的主题目录（例如 `C:\Users\Administrator\AppData\Roaming\Typora\themes`）
+
+#### 拓展
+
+额外使用 https://github.com/obgnail/typora_plugin
 
 ## 效果
 
